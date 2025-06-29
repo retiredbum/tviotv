@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://i.mjh.nz/nz/epg.xml,"
+
 #EXTINF:-1 group-title="MLB",06/29/25 12:06:00 PM EST = St. Louis Cardinals @ Cleveland Guardians
 https://github.com/mikekaprielian/rtnaodhor93n398/raw/main/en/offline.mp4
 #EXTINF:-1 group-title="MLB",06/29/25 01:36:00 PM EST = Philadelphia Phillies @ Atlanta Braves
